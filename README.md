@@ -1,3 +1,3 @@
 # CSharpDelegateAction
 
-C# console app to test the delegate action by printing to the console a list of names given by the user.
+C# console application to test the delegated action by creating an anonymous function that prints a list of user-supplied names to the console.
